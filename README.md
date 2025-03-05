@@ -1,8 +1,6 @@
 ### Hey hey, I'm Alan!
 
-Currently a 5th year Computer Science and Biochemistry student @ UBC, I'm either out and about enjoying the great outdoors, or I'm inside catching some Zs!
-
-🚧 README currently under construction 🚧
+Currently a 5th year Computer Science and Biochemistry student @ UBC
 
 <!--
 ```
